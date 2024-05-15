@@ -1,0 +1,4 @@
+Exemplo: 
+if ($x == $y) 
+ comando1; 
+comando2; 
