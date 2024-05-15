@@ -1,0 +1,11 @@
+<? 
+$cor[1] = “vermelho”; 
+$cor[2] = “verde”; 
+$cor[3] = “azul”; 
+$cor[“teste”] = 1; 
+?> 
+/*Equivalentemente, pode-se escrever:*/
+<? 
+$cor = array(1 => “vermelho, 2 => “verde, 3 => “azul”, 
+“teste => 1); 
+?> 
